@@ -1,7 +1,7 @@
 from facebook import GraphAPI
 
 
-token = 'EAAF2WTxlbp0BAAQ3MB1UWgYTTtOBz9vgJPnUUEOzygf0zMXQ9pm9I1KdrL68xSLrShKIKhZBzp7e0HUf2TlrGF0YSCZAmQwVAlKqOLLpYOQ6bQwVYogCJZBvSju1scNlvbkUSzHvrLN4HZBc7CT8BY3GQbQrFZCZCu1ULdThX79pxCBneOx06Cizgu1pQodyfC24gqqmuGQq8FzZCBsqsp5'
+token = ''
 groups = ['744128789503859']
 message = "Hello from the other side"
 
